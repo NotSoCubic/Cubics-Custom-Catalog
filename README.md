@@ -5,6 +5,7 @@ To add these levels to your EDGE, you need to put the BIN file in the "levels" f
 Then you need to go into the "mapping.xml" file (found in the levels folder) and add the string of levels in each file's "mapping.xml" file into the one in the game's code.
 
 If you did everything right, you should see new levels in your game.
+
 If you would like to play older versions of these levels, contact me and I will reach out to you eventually
 
 If you are in the official EDGE Mod Uploading Discord Server, you will gain access to any new levels earlier than their expected release date.
@@ -16,4 +17,3 @@ If you are in the official EDGE Mod Uploading Discord Server, you will gain acce
 4. Dark Matter
 5. Light Show
 6. Spirit
-
