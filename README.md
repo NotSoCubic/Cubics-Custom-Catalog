@@ -7,6 +7,8 @@ Then you need to go into the "mapping.xml" file (found in the levels folder) and
 If you did everything right, you should see new levels in your game.
 If you would like to play older versions of these levels, contact me and I will reach out to you eventually
 
+If you are in the official EDGE Mod Uploading Discord Server, you will gain access to any new levels earlier than their expected release date.
+
 # Current Levels
 1. Proceed
 2. Laze
