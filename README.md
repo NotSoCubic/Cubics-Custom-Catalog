@@ -10,7 +10,7 @@ If you would like to play older versions of these levels, contact me and I will 
 
 If you are in the official EDGE Mod Uploading Discord Server, you will gain access to any new levels earlier than their expected release date.
 
-# Cubic's Collection
+# Current Custom Levels
 1. Proceed
 2. Laze
 3. Quadrant
