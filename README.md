@@ -1,4 +1,4 @@
-# Cubic's Collection
+# Cubic's Custom Catalog
 This repository lists all the custom levels I've made for the game, in chronological order of when I've made them, excluding any remake levels I've made, which will be listed in a different repository.
 
 To add these levels to your EDGE, you need to put the BIN file in the "levels" folder and the ESO file in the "models" folder in the game's local files.
