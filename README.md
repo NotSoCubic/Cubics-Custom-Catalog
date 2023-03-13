@@ -11,12 +11,12 @@ If you would like to play older versions of these levels, contact me and I will 
 If you are in the official EDGE Mod Uploading Discord Server, you will gain access to any new levels earlier than their expected release date.
 
 # Cubic's Levels
-1. Proceed
-2. Laze
-3. Quadrant
-4. Dark Matter
-5. Light Show
-6. Spirit
+1. Proceed (August 17, 2022)
+2. Laze (August 18, 2022)
+3. Quadrant (August 19, 2022)
+4. Dark Matter (September 3, 2022)
+5. Light Show (October 22, 2022)
+6. Spirit (December 25, 2022)
 
 # EDGE Ending Levels
 1. Normal Levels
