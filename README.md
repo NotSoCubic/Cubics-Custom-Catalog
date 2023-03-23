@@ -36,3 +36,7 @@ If you are in the official EDGE Mod Uploading Discord Server, you will gain acce
 
 # Upcoming Levels
 1. ??? (April 16, 2023)
+
+# Upcoming Level Packs
+1. EDGE Menu Levels
+2. EDGE Hardcore Mode
