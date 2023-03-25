@@ -18,6 +18,10 @@ If you are in the official EDGE Mod Uploading Discord Server, you will gain acce
 5. Light Show (October 22, 2022)
 6. Spirit (December 25, 2022)
 
+# EDGE Menu Levels
+1. EDGE
+2. EDGE (PC)
+
 # EDGE Ending Levels
 1. Normal Levels
 2. Normal Levels (All Complete)
@@ -38,5 +42,4 @@ If you are in the official EDGE Mod Uploading Discord Server, you will gain acce
 1. ??? (April 16, 2023)
 
 # Upcoming Level Packs
-1. EDGE Menu Levels
-2. EDGE Hardcore Mode
+1. EDGE Hardcore Mode
