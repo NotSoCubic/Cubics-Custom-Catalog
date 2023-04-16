@@ -17,6 +17,7 @@ If you are in the official EDGE Mod Uploading Discord Server, you will gain acce
 4. Dark Matter (September 3, 2022)
 5. Light Show (October 22, 2022)
 6. Spirit (December 25, 2022)
+7. Cubilation (April 16, 2023)
 
 # EDGE Menu Levels
 1. EDGE
@@ -39,7 +40,7 @@ If you are in the official EDGE Mod Uploading Discord Server, you will gain acce
 2. Metro (Mobile)
 
 # Upcoming Levels
-1. ??? (April 16, 2023)
+Nothing new to address.
 
 # Upcoming Level Packs
 1. EDGE Hardcore Mode
