@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+To add these levels in your game, first put these pieces of text underneath <standard>, <extended> 
+or <bonus>.
+
+<level filename="cubic5475" />	
+<level filename="edge" />
+
+Put the BIN files in the "levels" folder and the ESO files in the "models" folder.
+Now, open the game. If you see 2 new levels in your game, you did everything correctly!

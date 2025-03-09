@@ -1,0 +1,8 @@
+Put this string of text in the mapping.xml file underneath one of the three level pack attributes:
+
+<level filename="cubilation" />
+
+Put the BIN file in the levels folder and the ESO file in the models folder.
+
+Then, launch the game and check your levels. If you did everything correctly, you should see a new 
+level in your game.
