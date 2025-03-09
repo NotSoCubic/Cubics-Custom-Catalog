@@ -1,3 +1,0 @@
- v1.0 | Official Release
-	Added EDGE
-	Added EDGE (PC)

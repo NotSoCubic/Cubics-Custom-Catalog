@@ -1,3 +1,0 @@
-v1.0 | Initial Release
-v1.1 | Changed Level ID
-v1.2 | Fixed Checkpoints and a slight visual bug that you literally cannot see in-game but whatever lol.

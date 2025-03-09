@@ -1,4 +1,0 @@
-v1.0: Official release.
-v1.1: Lowered 4 prisms in Extended Levels.
-v2.0: Changed static block theme for Extended Levels (All Completed).
-      Added checkpoints in all levels (except for Extended Levels. Couldn't find good spots for them).
