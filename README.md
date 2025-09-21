@@ -11,47 +11,47 @@ This part of the repository features every custom EDGE level I've made and put o
 Total Level Count: 19
 
 ## Cubic's Levels
-* Proceed (August 17, 2022)
+Proceed (August 17, 2022)
 
-* Laze (August 18, 2022)
+Laze (August 18, 2022)
 
-* Quadrant (August 19, 2022)
+Quadrant (August 19, 2022)
 
-* Dark Matter (September 3, 2022)
+Dark Matter (September 3, 2022)
 
-* Light Show (October 22, 2022)
+Light Show (October 22, 2022)
 
-* Spirit (December 25, 2022)
+Spirit (December 25, 2022)
 
-* Cubilation (April 16, 2023)
+Cubilation (April 16, 2023)
 
 ## EDGE Ending Levels
-* Normal Levels
+Normal Levels
 
-* Normal Levels (All Complete)
+Normal Levels (All Complete)
 
-* Extended Levels
+Extended Levels
 
-* Extended Levels (All Complete)
+Extended Levels (All Complete)
 
-* Bonus Levels
+Bonus Levels
 
-* Bonus Levels (All Complete)
+Bonus Levels (All Complete)
 
 ## EDGE Menu Levels
-* EDGE
+EDGE
 
-* EDGE (PC)
+EDGE (PC)
 
 ## EDGE Old Levels - Extras
-* 1st Contact (Mobile)
+1st Contact (Mobile)
 
-* Metro (Mobile)
+Metro (Mobile)
 
 ## WEGFan Showcase Recreation
-* Rush Out (remade by cloud54)
+Rush Out (remade by cloud54)
 
-* Balance (remade by Not So Cubic)
+Balance (remade by Not So Cubic)
 
 # VVVVVV
 
