@@ -61,4 +61,4 @@ Total Level Count: 1
 
 ## Levels
 * Forsaken City
-\- A remake of Celeste's first level, in VVVVVV!
+-- A remake of Celeste's first level, in VVVVVV!
