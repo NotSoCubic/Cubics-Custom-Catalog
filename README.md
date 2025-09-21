@@ -60,5 +60,5 @@ This section of the repository features every custom level I have made for the g
 Total Level Count: 1
 
 ## Levels
-* Forsaken City
--- A remake of Celeste's first level, in VVVVVV!
+- Forsaken City
+A remake of Celeste's first level, in VVVVVV!
