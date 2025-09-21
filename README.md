@@ -11,7 +11,7 @@ This part of the repository features every custom EDGE level I've made and put o
 Total Level Count: 19
 
 ## Cubic's Levels
-Proceed (August 17, 2022)
+* Proceed (August 17, 2022)
 
 Laze (August 18, 2022)
 
@@ -52,3 +52,13 @@ Metro (Mobile)
 Rush Out (remade by cloud54)
 
 Balance (remade by Not So Cubic)
+
+# VVVVVV
+
+This section of the repository features every custom level I have made for the game VVVVVV. Unlike EDGE, a level editor was built into the game, which also means a way to import custom levels with ease was also built into the game. To find out where you need to put these files at, open the game, head on over to "levels" and select "show level folder path". Be aware that this may reveal some personal info that you might not be comfortable with sharing if you are streaming or recording.
+
+Total Level Count: 1
+
+## Levels
+Forsaken City
+- A remake of Celeste's first level, in VVVVVV!
