@@ -53,9 +53,18 @@ Normal Levels
 
 - Balance (remade by Not So Cubic)
 
+# Celeste
+
+This section of the repository features every project I've made for the game Celeste. Like EDGE, there is no in-game level editor for this game, but a fan-created level editor has been made to allow for this to happen, along with a mod-loader. You will have to install Everest through Olympus in order to play mods without doing some very risky stuff to your game files, but once that's all set and done, you can download these links and put the .zip files into your Mods folder. These are also available on GameBanana too, where if you have Olympus installed already and set up, it can automatically do all the trouble of downloading for you!
+
+Total Map Count: 1
+
+## Maps
+- Expert Remix
+
 # VVVVVV
 
-This section of the repository features every custom level I have made for the game VVVVVV. Unlike EDGE, a level editor was built into the game, which also means a way to import custom levels with ease was also built into the game. To find out where you need to put these files at, open the game, head on over to "levels" and select "show level folder path". Be aware that this may reveal some personal info that you might not be comfortable with sharing if you are streaming or recording.
+This section of the repository features every custom level I have made for the game VVVVVV. Unlike EDGE and Celeste, a level editor was actually built into the game, which also means a way to import custom levels with ease was also built into the game. To find out where you need to put these files at, open the game, head on over to "levels" and select "show level folder path". Be aware that this may reveal some personal info that you might not be comfortable with sharing if you are streaming or recording.
 
 Total Level Count: 1
 
