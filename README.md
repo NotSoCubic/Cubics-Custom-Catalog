@@ -60,7 +60,7 @@ This section of the repository features every project I've made for the game Cel
 Total Map Count: 1
 
 ## Maps
-- Expert Remix
+- Expert Remix (https://gamebanana.com/mods/638512)
 
 # VVVVVV
 
