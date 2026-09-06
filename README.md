@@ -57,14 +57,14 @@ Normal Levels
 
 This section of the repository features every project I've made for the game Celeste. Like EDGE, there is no in-game level editor for this game, but a fan-created level editor has been made to allow for this to happen, along with a mod-loader. You will have to install Everest through Olympus in order to play mods without doing some very risky stuff to your game files, but once that's all set and done, you can download these links and put the .zip files into your Mods folder. These are also available on GameBanana too, where if you have Olympus installed already and set up, it can automatically do all the trouble of downloading for you!
 
-Total Map Count: 7
+Total Map Count: 9
 
 ## Expert Remix (https://gamebanana.com/mods/638512) [1.0.2]
 - Expert Remix
 
 - Expert Remix (Old Rooms)
 
-## [WIP] Harderleste - Celeste Hard Mode (https://gamebanana.com/wips/102630) [0.2.0]
+## [WIP] Harderleste - Celeste Hard Mode (https://gamebanana.com/wips/102630) [0.3.0]
 - Prologue
 
 - Forsaken City
@@ -74,6 +74,10 @@ Total Map Count: 7
 - Old Site
 
 - Old Site B-Side
+
+- Celestial Resort
+
+- Celestial Resort B-Side
 
 # VVVVVV
 
